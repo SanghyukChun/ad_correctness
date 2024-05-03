@@ -1,0 +1,15 @@
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/relu6_0 --num_workers 0 --skip_check --log_step 500 --fnnactivation ReLU6
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardsigmoid_0 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardsigmoid
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardtanh_0 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardtanh
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/relu6_1 --num_workers 0 --skip_check --log_step 500 --fnnactivation ReLU6
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardsigmoid_1 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardsigmoid
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardtanh_1 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardtanh
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/relu6_2 --num_workers 0 --skip_check --log_step 500 --fnnactivation ReLU6
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardsigmoid_2 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardsigmoid
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardtanh_2 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardtanh
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/relu6_3 --num_workers 0 --skip_check --log_step 500 --fnnactivation ReLU6
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardsigmoid_3 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardsigmoid
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardtanh_3 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardtanh
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/relu6_4 --num_workers 0 --skip_check --log_step 500 --fnnactivation ReLU6
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardsigmoid_4 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardsigmoid
+python main.py --model fnn --dataset mnist --log_dir logs/fnns/hardtanh_4 --num_workers 0 --skip_check --log_step 500 --fnnactivation Hardtanh
